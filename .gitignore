@@ -1,0 +1,4 @@
+output/*
+wordlists/rockyou_subs.txt
+*.log
+*.bak
